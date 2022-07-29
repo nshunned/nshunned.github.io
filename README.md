@@ -9,3 +9,5 @@
 - Add subtract multiple divide differentiate integerate exponentiate logarithmize ...
 
 ![LOL!](\<3.jpg "LOL!")
+
+> \"What is any ocean, but a multitude of drops?
