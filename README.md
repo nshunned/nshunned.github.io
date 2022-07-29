@@ -1,1 +1,3 @@
-Personal Website  ~ In Progress :)
+# Personal Website  ~ In Progress :)
+---
+## To Do:
